@@ -20,3 +20,4 @@ The goal was to clean and structure the dataset using Power Query, generate pivo
 - **Category-wise**:Office Supplies led with 6,026 transactions, followed by Furniture (2,121 transactions) and Technology (1,847 transactions).
 - **Customer Segments**:Consumer segment leads with 13,030 units, followed by Corporate (7,598) and Home Office (4,495).
 - **Monthly Trends**:Sales peak in October (3,039) - November (2,858), lowest in February (1,351).
+
