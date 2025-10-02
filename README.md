@@ -20,4 +20,28 @@ The goal was to clean and structure the dataset using Power Query, generate pivo
 - **Category-wise**:Office Supplies led with 6,026 transactions, followed by Furniture (2,121 transactions) and Technology (1,847 transactions).
 - **Customer Segments**:Consumer segment leads with 13,030 units, followed by Corporate (7,598) and Home Office (4,495).
 - **Monthly Trends**:Sales peak in October (3,039) - November (2,858), lowest in February (1,351).
+## Key Takeaways
+- Sales are highly **concentrated in metro cities** and **consumer-driven**.  
+- Customers prefer **cost-effective shipping** over premium options.  
+- Seasonal spikes in Q4 highlight festive/holiday demand.  
+- Technology and Furniture categories need more focus to balance sales.
+## Recommendations
+1. Launch **festive season promotions** (Oct–Nov) to maximize revenue.
+2. Expand focus on **Corporate & Home Office clients** with bulk order discounts.  
+3. Improve **Same Day shipping services** to attract premium buyers.  
+4. Invest in **category diversification** by boosting Technology & Furniture sales.  
+5. Strengthen presence in **underperforming regions** to reduce reliance on metros.
+## Impact  
+The dashboard transforms raw sales data into a **clear, visual business story**. It enables quick decision-making, identifies growth opportunities, and provides actionable recommendations to optimize sales strategy. 
+## Dashboard Preview  
+<img width="1276" height="617" alt="dashboard" src="https://github.com/user-attachments/assets/687e86b9-6ee6-40f3-bbc7-21f9a3ac206b" />
+
+
+
+
+
+
+
+
+
 
